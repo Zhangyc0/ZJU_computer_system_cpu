@@ -1,1 +1,2 @@
 # ZJU_computer_sysytem_single_cycle_cpu
+计算机系统Ⅰ课程期末大作业，利用TA提供的部分环境，搭建一个支持部分RISC v指令的单周期CPU
