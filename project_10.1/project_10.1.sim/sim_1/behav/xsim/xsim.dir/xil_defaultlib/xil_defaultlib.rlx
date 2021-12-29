@@ -1,0 +1,18 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/AluOp.vh,1623312580,verilog,,,,,,,,,,,,
+C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/Control_sim.v,1625232385,verilog,,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/Core.v,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/AluOp.vh,Control,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/Core.v,1624881987,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/Datapath.v,,Core,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/SCPU.v,1624878418,verilog,,,,SCPU,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/test_bench/Core_tb.sv,1624539795,systemVerilog,,,,Core_tb,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,xil_defaultlib,,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/ip/Ram/sim/Ram.v,1624535370,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/ip/Rom_1/sim/Rom.v,,Ram,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/ip/Rom_1/sim/Rom.v,1624536248,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/ALU.v,,Rom,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/ALU.v,1625232274,verilog,,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/Control_sim.v,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/AluOp.vh,ALU,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/Datapath.v,1625230351,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/ImmGen.v,,Datapath,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/ImmGen.v,1624948257,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/MUX2T1_32.v,,ImmGen,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/MUX2T1_32.v,1624952072,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/PC.v,,MUX2T1_32,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/PC.v,1624958010,verilog,,D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/Regs.v,,PC,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado2/project_10.1/project_10.1.srcs/sources_1/new/Regs.v,1624946273,verilog,,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src/SCPU.v,,Regs,,xil_defaultlib,C:/Users/zxt12138/Desktop/计算机系统/Lab10-code/src;D:/vivado/Vivado/2017.4/data/xilinx_vip/include,,,,,
